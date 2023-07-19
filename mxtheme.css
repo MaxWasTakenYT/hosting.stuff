@@ -14,6 +14,7 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #FFCCFF;
@@ -70,8 +71,8 @@
   --offline-color: #383838;
   --main-font: Cascadia Mono;
   --code-font: Cascadia Mono;
-  --channels-width: 245px;
-  --members-width: 235px;
+  --channels-width: 250px;
+  --members-width: 230px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
   --backdrop-position: var(--background-position);
@@ -104,4 +105,5 @@
 }
 
 /* Any custom CSS below here */
+
 

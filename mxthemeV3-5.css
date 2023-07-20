@@ -1,7 +1,7 @@
 /**
  * @name mx's private theme !!
  * @author mx!
- * @version 2.0
+ * @version 3.5
  * @description mx's personal theme for discord.
  * @source (none)
  * @website https://youtube.com/maxwastakenlol
@@ -71,7 +71,7 @@
   --offline-color: #383838;
   --main-font: Cascadia Mono;
   --code-font: Cascadia Mono;
-  --channels-width: 250px;
+  --channels-width: 260px;
   --members-width: 230px;
   --backdrop-overlay: rgba(0,0,0,0.8);
   --backdrop-image: var(--background-image);
